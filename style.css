@@ -1,9 +1,9 @@
 body {
-     color:lightblue
+     color:wheat
      
      background: black;
 }
 
 header {
-     border: solid 2px orange; 
+     border-bottom: solid 2px orange; 
 }
